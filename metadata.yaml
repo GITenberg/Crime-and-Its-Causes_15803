@@ -1,0 +1,29 @@
+_repo: Crime-and-Its-Causes_15803
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrison, William Douglas
+    alias: Morrison, W. D. (William Douglas)
+    birthdate: 1852
+    deathdate: 1943
+    gutenberg_agent_id: '6305'
+    url: http://www.gutenberg.org/2009/agents/6305
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2005-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime'
+- !lcc 'HV'
+- !lcsh 'Criminals'
+title: Crime and Its Causes
+url: http://www.gutenberg.org/ebooks/15803
